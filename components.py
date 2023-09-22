@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit_extras.mention import mention
-from streamlit_extras.stoggle import stoggle
+# from streamlit_extras.stoggle import stoggle
 from streamlit_extras.let_it_rain import rain
 import base64
 import pandas as pd
