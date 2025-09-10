@@ -186,9 +186,7 @@ def render_content():
             I have been working on couple of a small projects, one involving app development, and another as a dashboard for bug tracking. I enjoy learning about different cultures, languages and am eager
              leverage and contribute my interpersonal and technical skills in an inclusive environment.
             """, unsafe_allow_html=True)
-            
-            st.markdown("""<div class="custom-font">Check out my projects to see how I leverage Python to explore new possibilities in data and technology.</div>""", unsafe_allow_html=True)
-            
+            st.markdown("""<div class="custom-font"> Feel free to check out my projects! </div>""", unsafe_allow_html=True)
     elif choose == "Overview":   
         st.title("Overview")
         st.markdown("""
