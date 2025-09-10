@@ -181,10 +181,11 @@ def render_content():
     if choose == "About Me":
         with st.container():
             st.title("About Me")
-            st.subheader("Software Engineer")
-            st.markdown("""<div class="custom-font">Welcome to my portfolio. I am a Software Engineer who thrives on collaborative enviornments and continuous learning. Currently, 
-            I am immersed in a data-driven project aimed at honing my skills in Pandas for data analysis and manipulation, while also exploring the 
-            fundamentals of machine learning. My goal is to work with ML/AI all while fostering a postive, inclusive work culture.""", unsafe_allow_html=True)
+            st.subheader("Customer Support & IT Professional")
+            st.markdown("""<div class="custom-font">Welcome to my portfolio. I am an customer-focused IT professional who thrives on collaborative enviornments and continuous learning. Currently, 
+            I have been working on couple of a small projects, one involving app development, and another as a dashboard for bug tracking. I enjoy learning about different cultures, languages and am eager
+             leverage and contribute my interpersonal and technical skills in an inclusive environment.
+            """, unsafe_allow_html=True)
             
             st.markdown("""<div class="custom-font">Check out my projects to see how I leverage Python to explore new possibilities in data and technology.</div>""", unsafe_allow_html=True)
             
